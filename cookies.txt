@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+app.figure1.com	FALSE	/	TRUE		f1ou	Lw%3D%3D
+app.figure1.com	FALSE	/	TRUE		f1s	s%3AbeXnWGSl0SemlT5E3qbdQMwe.CP5y6YnwfH8ryGhXHIBbTy%2BZ2na6%2F2wBg8S0m76lQDA
